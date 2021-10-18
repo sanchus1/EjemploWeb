@@ -1,0 +1,14 @@
+#marron{
+    width: 50px; 
+    height: 50px; 
+    background-color: rgb(107, 53, 21);
+    text-align: center;
+    
+}
+
+#blanco{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(230, 204, 204);
+    text-align: center;
+}
